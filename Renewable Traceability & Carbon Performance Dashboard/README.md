@@ -1,5 +1,8 @@
 # Renewable Traceability & Carbon Performance (GB, Half-Hourly)
 
+![Executive Overview](https://github.com/TechPodx/Style-Repo/blob/main/Images/energy_gif.gif)
+
+
 Power BI portfolio project demonstrating **24/7 renewable matching**, **generation mix analysis**, and **market-based emissions** reporting using half-hourly GB data.
 
 > **Report pages implemented**
@@ -16,10 +19,10 @@ Power BI portfolio project demonstrating **24/7 renewable matching**, **generati
 ![Executive Overview](https://github.com/TechPodx/Style-Repo/blob/8efb3f7306c66188057385e2b22c869fca93ef73/Images/Executive%20Overview.png)
 
 **Generation Mix & Carbon**  
-![Generation Mix & Carbon](./imgs/generation-mix-carbon.png)
+![Generation Mix & Carbon](https://github.com/TechPodx/Style-Repo/blob/main/Images/Generation%20Mix%20%26%20Carbon.png)
 
 **24/7 Traceability (Heatmap)**  
-![24/7 Traceability](./imgs/traceability-heatmap.png)
+![24/7 Traceability](https://github.com/TechPodx/Style-Repo/blob/main/Images/24.7%20Traceability.png)
 
 ---
 
@@ -33,7 +36,7 @@ Power BI portfolio project demonstrating **24/7 renewable matching**, **generati
 
 ## 2) Dataset
 
-- **File:** `UK_Fuel_Mix.csv`  
+- **File from Kaggle:** [Data File](https://www.kaggle.com/datasets/danielparke/uk-energy-data-2020-23?resource=download&select=UK_Fuel_Mix.csv)
 - **Granularity:** 30-minute intervals (48 per day)  
 - **Key columns used:**  
   `DATETIME`, `NET_DEMAND`, `GENERATION`, `RENEWABLE`, `FOSSIL`,  
@@ -111,7 +114,7 @@ Power BI portfolio project demonstrating **24/7 renewable matching**, **generati
 - `Dim_Date[Date]` (Between)
 
 **Screenshot placeholder**  
-![Executive Overview](./imgs/executive-overview.png)
+![Executive Overview](https://github.com/TechPodx/Style-Repo/blob/8efb3f7306c66188057385e2b22c869fca93ef73/Images/Executive%20Overview.png)
 
 ---
 
@@ -129,7 +132,7 @@ Power BI portfolio project demonstrating **24/7 renewable matching**, **generati
 - `Dim_Date[Season]` (Tile) *(optional)*
 
 **Screenshot placeholder**  
-![Generation Mix & Carbon](./imgs/generation-mix-carbon.png)
+![Generation Mix & Carbon](https://github.com/TechPodx/Style-Repo/blob/main/Images/Generation%20Mix%20%26%20Carbon.png)
 
 ---
 
@@ -145,14 +148,14 @@ Power BI portfolio project demonstrating **24/7 renewable matching**, **generati
 - `Dim_Date[YearMonth]` (Single select)
 
 **Screenshot placeholder**  
-![24/7 Traceability](./imgs/traceability-heatmap.png)
+![24/7 Traceability](https://github.com/TechPodx/Style-Repo/blob/main/Images/24.7%20Traceability.png)
 
 ---
 
 ## 7) How to Use
 
 1. Select **Year-Month** to focus the period.  
-2. Use **Date** slider to zoom to specific weeks/days.  
+2. Use **Quater** to focus the specific quater.  
 3. Read KPIs on the Overview; inspect **Top 10 residual days**.  
 4. Drill into **Heatmap** to spot worst **half-hours**.  
 5. Use **Generation Mix** to understand fuel drivers and carbon trends.
