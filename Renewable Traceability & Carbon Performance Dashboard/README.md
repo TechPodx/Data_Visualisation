@@ -13,7 +13,7 @@ Power BI portfolio project demonstrating **24/7 renewable matching**, **generati
 ## 📸 Screenshots (add your images)
 
 **Executive Overview (KPIs + trends)**  
-![Executive Overview]([Images/Executive Overview.png](https://github.com/TechPodx/Style-Repo/blob/8efb3f7306c66188057385e2b22c869fca93ef73/Images/Executive%20Overview.png))
+![Executive Overview](https://github.com/TechPodx/Style-Repo/blob/8efb3f7306c66188057385e2b22c869fca93ef73/Images/Executive%20Overview.png)
 
 **Generation Mix & Carbon**  
 ![Generation Mix & Carbon](./imgs/generation-mix-carbon.png)
