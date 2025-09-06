@@ -28,11 +28,40 @@ Power BI portfolio project demonstrating **24/7 renewable matching**, **generati
 
 ---
 
-## 1) Why this project
+## 1) About the Project
+
+### 👉 Why This project
 
 - Showcases **BI Analyst** skills in **Power BI, Power Query, and DAX**, focused on renewable energy traceability.
 - Translates half-hourly grid data into **business-ready KPIs**: CFE% (24/7), residual load, and emissions (location vs market).
 - Presents a **client-style dashboard** suitable for corporate energy and sustainability reporting.
+
+### 👉 Business Problem
+
+Large corporate energy buyers are under pressure to:
+
+- Prove that their electricity consumption is genuinely matched by renewables, 24/7, not just on a yearly average.
+- Report carbon emissions under Scope 2 (location-based vs market-based) with confidence for regulators, investors, and sustainability ratings.
+- Understand when and why shortfalls occur (residual demand not covered by renewables) so they can plan PPAs, storage, or demand shifting.
+
+Traditional reporting only shows an annual renewable %, which hides the real hourly gaps and prevents businesses from making operational or procurement decisions.
+
+### 👉 What This Project Solves
+
+This BI dashboard demonstrates how SmartestEnergy (or a similar supplier) could provide business clients with:
+
+- 24/7 Traceability: interval-level matching between customer demand and renewable generation.
+- Clear KPIs (CFE%, Residual MWh, Avoided Emissions): making carbon reporting more transparent and audit-ready.
+- Fuel Mix Transparency: showing how different sources (wind, solar, gas, imports, etc.) drive performance and emissions.
+- Emissions Accounting: direct comparison of location-based vs market-based emissions, aligned with Scope 2 guidance.
+
+### 👉 Business Impact
+
+- Trust & Differentiation: Builds confidence with corporate clients that SmartestEnergy is delivering true 24/7 renewable coverage, not just averages.
+- Decision Support: Helps sustainability and procurement teams target the worst hours/days with new contracts (PPAs), storage, or load-shifting strategies.
+- Regulatory Compliance: Simplifies Scope 2 carbon reporting by providing both location-based and market-based emissions transparently.
+- Competitive Edge: Positions the company as a partner for net-zero journeys, offering data-driven insights that most suppliers cannot.
+- Financial Impact: Better renewable matching reduces exposure to carbon costs, enhances reputation, and helps retain/attract clients seeking renewable guarantees.
 
 ---
 
